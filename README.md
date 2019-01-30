@@ -1,6 +1,8 @@
 # SnakeAndLadder
 A basic snake and ladder game which can be played on a default set board, or if the player wishes, s/he can generate there own custom board.
 
+To start the application, run index.html
+
 The game is developed keeping generic rules in mind, which are as follows : 
 
 1> No. of players must be minimum 2.
@@ -21,4 +23,4 @@ The game is developed keeping generic rules in mind, which are as follows :
 
 Note : Errors are caught if above given rules are not met.
         
-To start the application, run index.html
+
